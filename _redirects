@@ -1,1 +1,31 @@
-# Intentionally empty. Cloudflare Pages resolves clean URLs and slug/index.html natively.
+# 301s for blog posts renamed to include the city (both slash forms)
+/blog/strap-water-heater-california/ /blog/strap-water-heater-whittier-ca/ 301
+/blog/strap-water-heater-california /blog/strap-water-heater-whittier-ca/ 301
+/blog/sell-home-water-heater-certification/ /blog/sell-home-plumbing-disclosures-whittier-ca/ 301
+/blog/sell-home-water-heater-certification /blog/sell-home-plumbing-disclosures-whittier-ca/ 301
+/blog/check-water-meter-for-leak/ /blog/check-water-meter-leak-whittier-ca/ 301
+/blog/check-water-meter-for-leak /blog/check-water-meter-leak-whittier-ca/ 301
+/blog/slab-leak-signs/ /blog/slab-leak-signs-whittier-ca/ 301
+/blog/slab-leak-signs /blog/slab-leak-signs-whittier-ca/ 301
+/blog/sewer-lateral-responsibility-california/ /blog/sewer-lateral-owner-or-city-whittier-ca/ 301
+/blog/sewer-lateral-responsibility-california /blog/sewer-lateral-owner-or-city-whittier-ca/ 301
+/blog/sewer-backup-what-to-do/ /blog/sewer-backup-first-hour-whittier-ca/ 301
+/blog/sewer-backup-what-to-do /blog/sewer-backup-first-hour-whittier-ca/ 301
+/blog/water-quality-report-guide/ /blog/water-quality-report-whittier-ca/ 301
+/blog/water-quality-report-guide /blog/water-quality-report-whittier-ca/ 301
+/blog/water-pressure-causes/ /blog/water-pressure-whittier-ca/ 301
+/blog/water-pressure-causes /blog/water-pressure-whittier-ca/ 301
+/blog/dishwasher-draining-into-sink/ /blog/dishwasher-draining-into-sink-whittier-ca/ 301
+/blog/dishwasher-draining-into-sink /blog/dishwasher-draining-into-sink-whittier-ca/ 301
+/blog/identify-home-pipe-material/ /blog/identify-home-pipe-material-whittier-ca/ 301
+/blog/identify-home-pipe-material /blog/identify-home-pipe-material-whittier-ca/ 301
+/blog/insurance-burst-pipe-california/ /blog/insurance-burst-pipe-whittier-ca/ 301
+/blog/insurance-burst-pipe-california /blog/insurance-burst-pipe-whittier-ca/ 301
+/blog/buying-older-home-plumbing-checklist/ /blog/buying-older-home-plumbing-whittier-ca/ 301
+/blog/buying-older-home-plumbing-checklist /blog/buying-older-home-plumbing-whittier-ca/ 301
+/blog/backflow-test-notice-explained/ /blog/backflow-test-notice-whittier-ca/ 301
+/blog/backflow-test-notice-explained /blog/backflow-test-notice-whittier-ca/ 301
+/blog/grease-trap-cleaning-schedule/ /blog/grease-trap-cleaning-whittier-ca/ 301
+/blog/grease-trap-cleaning-schedule /blog/grease-trap-cleaning-whittier-ca/ 301
+/blog/hot-water-takes-too-long/ /blog/hot-water-wait-whittier-ca/ 301
+/blog/hot-water-takes-too-long /blog/hot-water-wait-whittier-ca/ 301
